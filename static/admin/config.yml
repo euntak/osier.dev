@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: euntak/osier.io
+  repo: euntak/osier.dev
 
 media_folder: static/assets
 public_folder: assets

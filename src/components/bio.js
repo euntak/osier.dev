@@ -33,14 +33,13 @@ function Bio() {
                 borderRadius: `50%`,
               }}
             />
-            <p>
-              Written by <strong>{author}</strong> who lives and works in San
-              Francisco building useful things.
-              {` `}
-              <a href={`https://twitter.com/${social.twitter}`}>
-                You should follow him on Twitter
-              </a>
-            </p>
+            <Intro>
+              <p>Written By <strong>{author}</strong> </p>
+              <blockquote>
+                Your life on Earth has dead. And you are now in the next phase of existence in the universe.
+                - Good Place
+              </blockquote>
+            </Intro>
           </Container>
         )
       }}
@@ -50,7 +49,7 @@ function Bio() {
 
 const bioQuery = graphql`
   query BioQuery {
-    avatar: file(absolutePath: { regex: "/profile-pic.jpg/" }) {
+    avatar: file(absolutePath: { regex: "/profile-pic.png/" }) {
       childImageSharp {
         fixed(width: 50, height: 50) {
           ...GatsbyImageSharpFixed
@@ -70,6 +69,22 @@ const bioQuery = graphql`
 
 const Container = styled.div`
   display: flex;
+  justify-content: center;
+  align-items: center;
+`
+
+const Intro = styled.div`
+  display:flex;
+  flex-direction: column;
+
+  p, blockquote {
+    margin: 0;
+  }
+
+  blockquote {
+    font-size: 18px;
+    line-height: 22px;
+  }
 `
 
 export default Bio
