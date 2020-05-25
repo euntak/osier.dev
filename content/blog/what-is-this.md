@@ -9,3 +9,7 @@ this is just text editor??
 
 
 OMG.. it should be replace to markdown editor ...
+
+## holly shit .. it's convert to markdown editor!!
+
+### just convert markdown gramm
