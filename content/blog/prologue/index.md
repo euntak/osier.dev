@@ -20,19 +20,19 @@ date: "2020-05-26T23:46:37.121Z"
 
 ## 언제나 시작은 즐거운 일이다.
 
-이렇게 생각이 들고 행동에 옮기는 첫날. 기존에 방치되어 있던 Hexo 기반의 블로그 (2017년에 작성한 6개 정도의 포스팅이 전부인) 를 과감하게 삭제하고, 이전부터 관심있던 Getsby로 갈아타보자 라는 생각을 했다.
-우선 Getsby를 택한건 이뻤다. 가령 [rinae.dev](https://rinae.dev) 라던지, [jbee.io](https://jbee.io/) 라던지 심플 하면서 이쁜 Theme가 있었다.
+이렇게 생각이 들고 행동에 옮기는 첫날. 기존에 방치되어 있던 Hexo 기반의 블로그 (2017년에 작성한 6개 정도의 포스팅이 전부인) 를 과감하게 삭제하고, 이전부터 관심있던 Gatsby로 갈아타보자 라는 생각을 했다.
+우선 Gatsby를 택한건 이뻤다. 가령 [rinae.dev](https://rinae.dev) 라던지, [jbee.io](https://jbee.io/) 라던지 심플 하면서 이쁜 Theme가 있었다.
 뭐든 내가 맘에 들어야 한번이라도 더 들여다 볼 것이라고 생각했기 때문에 나에게 있어서 이쁜건 굉장히 중요하다.
 
-그래서 첫번째로 [gatsby-starter-bee](https://github.com/JaeYeopHan/gatsby-starter-bee) 바로 설치 했다. 근데, 너무 Getsby에 대해 너무 모르는 상태에서 이러한 것을 하기엔 너무 날로 먹는 것 같아서
-Getsby에서 제공하는 [Tutorial](https://www.gatsbyjs.org/tutorial/gatsby-image-tutorial/) 로 변경햇다. 뭔가 잠깐 살펴봤는데 문서 자체도 굉장히 잘 되어있는 것 같고 이미 참고할 만한 자료들이 구글에 너무 많더라.
+그래서 첫번째로 [gatsby-starter-bee](https://github.com/JaeYeopHan/gatsby-starter-bee) 바로 설치 했다. 근데, 너무 Gatsby에 대해 너무 모르는 상태에서 이러한 것을 하기엔 너무 날로 먹는 것 같아서
+Gatsby에서 제공하는 [Tutorial](https://www.gatsbyjs.org/tutorial/gatsby-image-tutorial/) 로 변경햇다. 뭔가 잠깐 살펴봤는데 문서 자체도 굉장히 잘 되어있는 것 같고 이미 참고할 만한 자료들이 구글에 너무 많더라.
 
 [Netlify CMS 연동](https://www.gatsbyjs.org/tutorial/blog-netlify-cms-tutorial/)을 참고하여 만들었다.
 
 막상 해보니 할만하다 괜찮은 가이드가 존재하기도 하고, 중간에 막혀서 삽질한 것도 없었다.
 Netlify에서 기본으로 제공하는 도메인이 마음에 안들어서 도메인을 샀다. (io 사고 싶었는데 너무 비싸더라) 나름 꽤 괜찮은 것 같다. 클릭 몇번으로 도메인 사고 연결하고, SSL까지 해주니 참으로 잘만든 서비스 아닌가.
 
-어쨌든, 이렇게 Getsby설치와 함께 Netlify로 Github에 올린 내 Repository와 연동하여 블로그를 서빙하는 것 까지 완료했다. (뿌듯)
+어쨌든, 이렇게 Gatsby설치와 함께 Netlify로 Github에 올린 내 Repository와 연동하여 블로그를 서빙하는 것 까지 완료했다. (뿌듯)
 
 
 ## 그래서 ?
