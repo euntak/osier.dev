@@ -27,6 +27,7 @@ function Bio() {
                 marginRight: rhythm(1 / 2),
                 marginTop: rhythm(1 / 3),
                 minWidth: 70,
+                minHeight: 70,
                 borderRadius: `100%`,
               }}
               imgStyle={{
