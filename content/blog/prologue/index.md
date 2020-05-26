@@ -1,5 +1,6 @@
 ---
 title: Prologue
+description: 다시 블로그를 시작하며
 date: "2020-05-26T23:46:37.121Z"
 ---
 
