@@ -70,8 +70,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Osier's log`,
+        short_name: `Osier`,
         start_url: `/`,
         background_color: `#000000`,
         theme_color: `#663399`,
