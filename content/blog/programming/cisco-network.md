@@ -1,8 +1,8 @@
 ---
 title: 후니의 시스코 네트워킹 - 작성 중
-description: 네트워킹의 기본
+description: 🌎 🕸 📕 💡 🤔
 tag: Programming, 프로그래밍
-date: "2020-06-02T02:10:37.121Z"
+date: "2020-06-01T02:10:37.121Z"
 ---
 
 ![page](./../../assets/cisco-network.jpeg "Logo Title Text 1")
