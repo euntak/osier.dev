@@ -3,7 +3,7 @@ module.exports = {
     // edit below
     title: `Osier's log`,
     author: `Aiden Ryu`,
-    description: `Your life on Earth has dead. And you are now in the next phase of existence in the universe.`,
+    description: `Done Is Better Than Perfect.`,
     siteUrl: `https://osier.dev`,
     social: {
       "twitter": "",
