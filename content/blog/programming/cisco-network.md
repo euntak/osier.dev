@@ -24,3 +24,11 @@ date: "2020-06-01T02:10:37.121Z"
 ### CSMA/CD
 
 ## TokenRing
+
+## UTP
+
+## Cable
+
+## MAC Address
+
+## Unicast, Broadcase, Multicast
