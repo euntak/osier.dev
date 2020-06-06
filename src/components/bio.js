@@ -37,8 +37,7 @@ function Bio() {
             <Intro>
               <p>Written By <strong>{author}</strong> </p>
               <blockquote>
-                Your life on Earth has dead. And you are now in the next phase of existence in the universe.
-                - Good Place
+                Done is better than perfect.
               </blockquote>
             </Intro>
           </Container>
@@ -70,7 +69,7 @@ const bioQuery = graphql`
 
 const Container = styled.div`
   display: flex;
-  justify-content: center;
+  justify-content: start;
   align-items: center;
 `
 
